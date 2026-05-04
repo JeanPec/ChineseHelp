@@ -1,0 +1,10 @@
+# Translation and Language
+ollama
+xpinyin
+
+# TTS
+piper-tts
+pygame
+
+# ENV
+python-dotenv
