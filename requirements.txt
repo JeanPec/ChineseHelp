@@ -1,6 +1,10 @@
 # Translation and Language
 ollama
 xpinyin
+transformers
+torch
+sentencepiece
+accelerate
 
 # TTS
 piper-tts
